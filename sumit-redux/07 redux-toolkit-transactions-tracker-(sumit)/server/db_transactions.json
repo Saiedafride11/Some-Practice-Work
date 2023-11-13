@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "33",
+      "amount": 4,
+      "type": "income",
+      "id": 1
+    },
+    {
+      "name": "Kane Murphy",
+      "amount": 20,
+      "type": "income",
+      "id": 2
+    },
+    {
+      "name": "Fredericka Bonner",
+      "type": "expense",
+      "amount": 41,
+      "id": 3
+    }
+  ]
+}
