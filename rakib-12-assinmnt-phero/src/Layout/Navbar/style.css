@@ -1,0 +1,12 @@
+.active{
+    border-bottom: 1px solid white;
+    border-radius: none;
+    color: #ffffff;
+    -webkit-border-radius: none;
+    -moz-border-radius: none;
+    -ms-border-radius: none;
+    -o-border-radius: none;
+}
+:root{
+    --n: none;
+}
